@@ -102,3 +102,14 @@ https://www.youtube.com/@OrigensNT
 
 https://www.youtube.com/@escoladodiscipulo
 * Canal Youtube com divesos estudos biblicos
+
+https://www.desiringgod.org/
+* Site com diversos estudos e artigos teológicos (Reformado) (EN)
+
+https://www.youtube.com/@desiringGod
+* Canal Youtube com diversos estudos e artigos teológicos (EN)
+
+https://app.ministeriofiel.com.br/login
+* Site da Fiel com diversos Cursos Teológicos (Pagos e gratuitos)
+
+* 
