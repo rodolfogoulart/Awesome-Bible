@@ -46,9 +46,25 @@ https://github.com/robertrouse/theographic-bible-metadata
 * Extenso Database em formato Json e CSV
   * Verificar [documentação](https://theographic.notion.site/Documentation-c7ebad9463b9477694fa428dfa8a76b0)
 
-* 
 
-## Sites diversos
+## API util para desenvolvimento
+https://en.wikipedia.org/w/rest.php/v1/search/page?q=jesus&limit=1
+* Ver Wikipedia API para pesquisa de palavras (pessoas, lugares)
+
+https://github.com/marciovsena/abibliadigital
+* API para biblia
+
+https://www.abibliadigital.com.br/
+* API biblia
+
+https://bibliaapi.com/docs/
+* API biblia
+
+https://scripture.api.bible/
+* API biblia
+ 
+
+## Sites diversos e conteudos teológicos
 https://www.openbible.info/
 * Referencias cruzadas
 * Atlas
@@ -77,20 +93,12 @@ https://www.youtube.com/@TheLumoProject
 * [PlayList com Filme Jesus do livro de João](https://www.youtube.com/watch?v=HEpkuNw97jw&list=PLcJVIuhI8isI2GDUjwetaGXcj96cXikwY&pp=iAQB)
 * [PlayList com Filme Jesus do livro de Lucas](https://www.youtube.com/watch?v=qYXvow8OkhM&list=PLcJVIuhI8isLrArtcf4ESm3Xa7Et4Dp8f&pp=iAQB)
 
-## API util para desenvolvimento
-https://en.wikipedia.org/w/rest.php/v1/search/page?q=jesus&limit=1
-* Ver Wikipedia API para pesquisa de palavras (pessoas, lugares)
+https://www.youtube.com/@RodrigoSilvaArqueologia
+* Canal Youtube do Rodrigo Silva com conteudo de arqueologia
 
-https://github.com/marciovsena/abibliadigital
-* API para biblia
+https://www.youtube.com/@OrigensNT
+* Canal Youtube com diversos conteudos cientificos biblicos
+ * Divulga a Teoria do Desing inteligente (TDI)
 
-https://www.abibliadigital.com.br/
-* API biblia
-
-https://bibliaapi.com/docs/
-* API biblia
-
-https://scripture.api.bible/
-* API biblia
- 
-
+https://www.youtube.com/@escoladodiscipulo
+* Canal Youtube com divesos estudos biblicos
