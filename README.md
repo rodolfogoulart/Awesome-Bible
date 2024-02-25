@@ -67,6 +67,16 @@ https://biblegpt-la.com/index.html
 https://tuapalavra.com/pt-BR/ARAi
 * Biblia com Lexico (Strong), comentários
 
+https://www.youtube.com/@bibleproject
+* Diversos conteudos para entendimento dos livros/palavras
+
+https://www.youtube.com/@TheLumoProject
+* Contem o Filme Jesus narrado do texto biblico.
+* Contem o Filme em diversos idiomas também, separado por passagens.
+* [PlayList com Filme Jesus do livro de Mateus](https://www.youtube.com/watch?v=xuZO4ARuh8E&list=PLcJVIuhI8isIHL_P7D5yBciIPV_hQipAz)
+* [PlayList com Filme Jesus do livro de João](https://www.youtube.com/watch?v=HEpkuNw97jw&list=PLcJVIuhI8isI2GDUjwetaGXcj96cXikwY&pp=iAQB)
+* [PlayList com Filme Jesus do livro de Lucas](https://www.youtube.com/watch?v=qYXvow8OkhM&list=PLcJVIuhI8isLrArtcf4ESm3Xa7Et4Dp8f&pp=iAQB)
+
 ## API util para desenvolvimento
 https://en.wikipedia.org/w/rest.php/v1/search/page?q=jesus&limit=1
 * Ver Wikipedia API para pesquisa de palavras (pessoas, lugares)
