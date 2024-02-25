@@ -48,7 +48,7 @@ https://github.com/robertrouse/theographic-bible-metadata
 
 * 
 
-## Sites
+## Sites diversos
 https://www.openbible.info/
 * Referencias cruzadas
 * Atlas
