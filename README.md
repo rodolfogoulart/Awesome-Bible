@@ -1,5 +1,5 @@
 # Awesome-Bible
-## Awesome Bible é um repositório para ***Comunidade Brasileira*** de materiais e recursos para desenvolvimento de aplicações da biblia ou analises do texto biblico.
+## Awesome Bible é um repositório para ***Comunidade Brasileira*** de materiais e recursos para estudo e para desenvolvimento de aplicações da biblia ou analises do texto biblico.
 
 **Contribuições de conteúdos são bem vindos ao repositório.**
 
@@ -112,4 +112,14 @@ https://www.youtube.com/@desiringGod
 https://app.ministeriofiel.com.br/login
 * Site da Fiel com diversos Cursos Teológicos (Pagos e gratuitos)
 
-* 
+
+https://www.faithcomesbyhearing.com/audio-bible-resources/recordings-database
+* Biblia em Audio (diversos idiomas)
+
+https://ebible.org/study/
+* Biblia de Estudo (Diversas versoes e linguas)
+
+https://bible.org/
+* Diversos conteudos
+
+
