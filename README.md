@@ -49,6 +49,8 @@ https://github.com/robertrouse/theographic-bible-metadata
 * Extenso Database em formato Json e CSV
   * Verificar [documentação](https://theographic.notion.site/Documentation-c7ebad9463b9477694fa428dfa8a76b0)
 
+https://github.com/openbibleinfo/Bible-Geocoding-Data
+* GeoCoding database
 
 ## API util para desenvolvimento
 https://en.wikipedia.org/w/rest.php/v1/search/page?q=jesus&limit=1
