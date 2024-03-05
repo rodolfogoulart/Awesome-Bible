@@ -30,6 +30,9 @@ https://github.com/jonathanAmancioSales/Data-Analysis_Bible
 https://github.com/ajdavidl/Portuguese-NLP
 * Lista de conteudos para NLP Portugues
 
+https://github.com/felipemaiapolo/legalnlp
+* NLp Portugues
+
 ## Database
 https://github.com/STEPBible/STEPBible-Data
 * Database (Diversos)
