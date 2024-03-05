@@ -121,5 +121,8 @@ https://ebible.org/study/
 
 https://bible.org/
 * Diversos conteudos
+  
+https://www.bibliadocristao.com/concordancia
+* concordancia biblica
 
 
