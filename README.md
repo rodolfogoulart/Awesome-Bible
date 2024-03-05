@@ -17,6 +17,9 @@ https://mybible.zone/en/modules/
 * Biblia para Mobile
 * Pagina com instruções para criação de modulos para mybible (pode ser usado para extrair dados)
 
+https://github.com/bibletime/bibletime
+* Biblia para desktop
+
  
 https://github.com/eliranwong/UniqueBible
 
