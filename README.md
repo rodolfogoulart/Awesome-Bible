@@ -20,6 +20,9 @@ https://mybible.zone/en/modules/
 https://github.com/bibletime/bibletime
 * Biblia para desktop
 
+https://app.biblearc.com/
+* Biblia com vários recursos [Web]
+
  
 https://github.com/eliranwong/UniqueBible
 
