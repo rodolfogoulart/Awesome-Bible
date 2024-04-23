@@ -84,6 +84,7 @@ https://www.openbible.info/
 
 https://viz.bible/
 * Diversos conteudos: graficos, mapas, database com lugares, pessoas, ano, fatos
+*  https://github.com/robertrouse/theographic-bible-metadata
 
 https://get.bible/blog/post/how-to-access-the-bible-via-api-or-download-the-bible-as-data
 * Post com diferentes links e sites com ferramentas, database, etc...
