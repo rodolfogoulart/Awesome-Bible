@@ -82,6 +82,13 @@ https://www.openbible.info/
 * Mapas
 * Pesquisas
 
+https://viz.bible/
+* Diversos conteudos: graficos, mapas, database com lugares, pessoas, ano, fatos
+
+https://get.bible/blog/post/how-to-access-the-bible-via-api-or-download-the-bible-as-data
+* Post com diferentes links e sites com ferramentas, database, etc...
+* ***MUITO CONTEUDO
+
 https://palopenmaps.org/en
 * Atlas (Mapas Palestina)
 
