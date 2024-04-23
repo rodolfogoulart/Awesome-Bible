@@ -7,6 +7,9 @@
 ## Outros repositórios com listas
 [awesome_list_faith_tech_materials](https://github.com/mpraes/awesome_list_faith_tech_materials) - (pt)
 
+https://github.com/meichthys/christian_foss?tab=readme-ov-file
+ * Repositorio com difentes projetos open source
+
 ## Aplicações
 https://github.com/rodolfogoulart/aletheia-core-model
 * Pagina do Projeto Biblia Aletheia (Projeto pessoa)
