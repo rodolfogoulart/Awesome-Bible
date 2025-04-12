@@ -1,4 +1,4 @@
-# Awesome-Bible
+# Awesome-Bible-PT
 ## Awesome Bible é um repositório para ***Comunidade Brasileira*** de materiais e recursos para estudo e para desenvolvimento de aplicações da biblia ou analises do texto biblico.
 
 **Contribuições de conteúdos são bem vindos ao repositório.**
