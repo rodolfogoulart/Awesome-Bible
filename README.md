@@ -26,6 +26,9 @@ https://github.com/bibletime/bibletime
 https://app.biblearc.com/
 * Biblia com vários recursos [Web]
 
+https://www.obohu.cz/bible/index.php?styl=ARAS&kap=8&k=2K
+* Várias bíblias/comentário/dicionário e comparativo, possivelmente importado do MyBible
+* Contém também bíblias com Strong
  
 https://github.com/eliranwong/UniqueBible
 
